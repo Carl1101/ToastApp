@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToastApp</string>
+    <string name="title_activity_toast">ToastActivity</string>
+    <string name="toast_button_default_lbl">Default Toast</string>
+    <string name="toast_button_custom_lbl">Custom Toast</string>
+    <string name="toast_default_msg_lbl">Default Toast Message</string>
+    <string name="toast_custom_msg_lbl">Custom Toast Message</string>
+    <string name="snackbar_button_lbl">Snack Bar</string>
+</resources>
